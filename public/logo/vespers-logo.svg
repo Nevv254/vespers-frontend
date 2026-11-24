@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 54" fill="none">
+  <!-- Vespers Monogram Emblem -->
+  <g transform="translate(4, 7)">
+    <!-- Golden sunset semi-circle glow -->
+    <path d="M4 32 C4 18.7 14.7 8 28 8 C41.3 8 52 18.7 52 32" stroke="#d28a65" stroke-width="2" stroke-linecap="round" opacity="0.85"/>
+    <circle cx="28" cy="18" r="5" fill="#b9572b"/>
+    <!-- Stylized V with horizon line -->
+    <path d="M12 12 L28 35 L44 12" stroke="#f7f3eb" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M6 36 L50 36" stroke="#b9572b" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+  
+  <!-- Typography Wordmark -->
+  <text x="68" y="34" font-family="'Cormorant Garamond', Georgia, serif" font-size="26" font-weight="600" letter-spacing="4.5" fill="#f7f3eb">VESPERS</text>
+  <circle cx="204" cy="33" r="2.5" fill="#d28a65"/>
+  <text x="69" y="44" font-family="'DM Sans', sans-serif" font-size="7" font-weight="600" letter-spacing="2.8" fill="#d28a65" opacity="0.95">AFRICAN JOURNEYS</text>
+</svg>
